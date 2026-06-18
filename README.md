@@ -40,7 +40,7 @@ Input:
 Output:
 - 1 passive buzzer
 - 1  RGB LED
-- 1 ST7735 128x128 LCD screen
+- 1 ST7735 128x128 SPI LCD screen
 
 Misc:
 - 6 220 ohm resistors
