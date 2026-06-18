@@ -51,7 +51,6 @@ the point of this assignment was to minimize library use, and to only use AVR li
 
 ## Wiring Diagram
 ![Wiring Diagram](finalReportImages/cs120b_final_wiringDiagram.png)
-
 (tinkercad doesn't have a joystick or LCD screen)
 
 ## Task & State Diagrams
