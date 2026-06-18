@@ -4,6 +4,8 @@ playback. All of this is output on a buzzer which plays tones based on the direc
 note being played, the most recent note, the current octave/pitch of the notes, the amount of notes
 recorded, and their octave are all displayed on a small LCD screen.
 
+The project was built and uploaded using platformIO
+
 ## Demo Video
 We were required to keep the demos as close to a minute as possible
 
