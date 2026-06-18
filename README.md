@@ -6,6 +6,7 @@ recorded, and their octave are all displayed on a small LCD screen.
 
 ## Demo Video
 We were required to keep the demos as close to a minute as possible
+
 https://www.youtube.com/shorts/hJHvzhkA0eQ
 
 ## Elements of Complexity
