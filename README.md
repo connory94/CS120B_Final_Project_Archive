@@ -1,6 +1,4 @@
 # Arduino Uno Song Recorder
-
-## Introduction 
 This project is an instrument/recorder that can both play notes on command and record them for later
 playback. All of this is output on a buzzer which plays tones based on the direction of the joystick. The
 note being played, the most recent note, the current octave/pitch of the notes, the amount of notes
