@@ -50,8 +50,9 @@ only math.h to calculate the direction the joystick is pointed in
 the point of this assignment was to minimize library use, and to only use AVR libraries
 
 ## Wiring Diagram
-(tinkercad doesn't have a joystick or LCD screen)
 ![Wiring Diagram](finalReportImages/cs120b_final_wiringDiagram.png)
+
+(tinkercad doesn't have a joystick or LCD screen)
 
 ## Task & State Diagrams
 ![Task Diagram](finalReportImages/cs120b_final_taskDiagram.png)
