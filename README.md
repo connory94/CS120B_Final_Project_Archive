@@ -5,6 +5,7 @@ note being played, the most recent note, the current octave/pitch of the notes, 
 recorded, and their octave are all displayed on a small LCD screen.
 
 ## Demo Video
+We were required to keep the demos as close to a minute as possible
 https://www.youtube.com/shorts/hJHvzhkA0eQ
 
 ## Elements of Complexity
@@ -49,5 +50,13 @@ only math.h to calculate the direction the joystick is pointed in
 the point of this assignment was to minimize library use, and to only use AVR libraries
 
 ## Wiring Diagram
+![Wiring Diagram](finalReportImages/cs120b_final_wiringDiagram.png)
 
 ## Task & State Diagrams
+![Task Diagram](finalReportImages/cs120b_final_taskDiagram.png)
+![Joystick+Buttons Diagram](finalReportImages/cs120b_final_stateDiagram0.png)
+![Preview+Playback Diagram](finalReportImages/cs120b_final_stateDiagram1.png)
+![Screen Diagram](finalReportImages/cs120b_final_stateDiagram2.png)
+![Initialization Diagram](finalReportImages/cs120b_final_stateDiagram3.png)
+![LED Diagram](finalReportImages/cs120b_final_stateDiagram4.png)
+![Record Diagram](finalReportImages/cs120b_final_stateDiagram5.png)
